@@ -1,0 +1,2 @@
+PHONE = "+79291693057"
+PASSWORD = "kraft1234"
